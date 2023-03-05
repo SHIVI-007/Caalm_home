@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "953962682695",
+    "project_id": "caalm-d1e69",
+    "storage_bucket": "caalm-d1e69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953962682695:android:c2a06b5091ee5858471462",
+        "android_client_info": {
+          "package_name": "com.caalm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953962682695-5cou5j1v6k87ujnn8up5nsedv3gefpsn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.caalm",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "953962682695-vpt41vdh45uiud7p6ajn6b964vu1pbg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC8cY2EjJKh7fKGc0NLquo-nBjpZTIYX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953962682695-vpt41vdh45uiud7p6ajn6b964vu1pbg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
