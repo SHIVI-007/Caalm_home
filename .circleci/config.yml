@@ -11,6 +11,9 @@ jobs:
       - run:
           name: Install Dependencies
           command: npm install
+      - run:
+          name: Run command
+          command: npx react-native start
       # - run:
       #     name: Run tests
       #     command: npm run test
